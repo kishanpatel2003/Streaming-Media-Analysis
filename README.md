@@ -23,8 +23,7 @@ The primary data source for this project is JustWatch, which provides datasets c
 
 - `/xlsx`: Contains the initial datasets sourced from JustWatch.
 - `/sql`: Contains SQL scripts for data warehousing, preprocessing, and normalization.
-- `/visualizations`: Contains Tableau workbooks and visualizations.
-- `/diagrams`: Contains the draw.io database schema diagram.
+- `/visualizations`: Contains Tableau workbooks and visualizations, and a diagram of the SQL database schema
 
 ## Installation and Setup
 
