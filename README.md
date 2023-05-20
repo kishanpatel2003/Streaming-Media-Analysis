@@ -23,7 +23,7 @@ The primary data source for this project is JustWatch, which provides datasets c
 
 - `/data`: Contains the initial datasets sourced from JustWatch.
 - `/sql`: Contains SQL scripts for data warehousing, preprocessing, and normalization.
-- `/visualizations`: Contains Tableau workbooks and visualizations, and a diagram of the SQL database schema
+- `/visualizations`: Contains Tableau workbooks and visualizations, a diagram of the SQL database schema, and a tutorial for its creation.
 
 ## Installation and Setup
 
