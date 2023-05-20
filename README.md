@@ -1,5 +1,3 @@
-# Interflix
-
 # Streaming Media Analysis
 
 This project investigates the movie and TV shows offered by five popular streaming media providers: Netflix, Hulu, Prime Video, Disney+, and HBO Max. The analysis includes information such as age certifications, ratings, and genres of the shows. The datasets used in this project are sourced from JustWatch.
