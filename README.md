@@ -6,6 +6,8 @@
 
 This project investigates the movie and TV shows offered by five popular streaming media providers: Netflix, Hulu, Prime Video, Disney+, and HBO Max. The analysis includes information such as age certifications, ratings, and genres of the shows. The datasets used in this project are sourced from JustWatch.
 
+![Genre Distribution](visualizations/GenreDistribution.jpeg)
+
 ## Project Overview
 
 The goal of this project is to analyze the streaming media data and provide managerial recommendations from different perspectives, including household consumers, show producers, streaming media providers, and internet service providers. The project involves an initial exploratory data analysis, consolidation into an Excel spreadsheet, data warehousing, preprocessing, normalization in SQL, data visualization in Tableau, and a database schema diagram created using draw.io. Additionally, a video tutorial for creating your own Entity Relationship Diagram in draw.io is attached in /visualizations!
