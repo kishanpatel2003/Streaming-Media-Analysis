@@ -15,7 +15,6 @@ The primary data source for this project is JustWatch, which provides datasets c
 - Excel: Used for consolidating and organizing the initial datasets.
 - SQL: Used for data warehousing, preprocessing, and normalization (0NF->1NF->2NF).
 - Tableau: Used for data visualization and creating visual dashboards.
-- Draw.io: Used for creating a database schema diagram.
 
 ## Repository Structure
 
