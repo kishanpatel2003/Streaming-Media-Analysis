@@ -6,6 +6,9 @@ This project investigates the movie and TV shows offered by five popular streami
 
 The goal of this project is to analyze the streaming media data and provide managerial recommendations from different perspectives, including household consumers, show producers, streaming media providers, and internet service providers. The project involves an initial exploratory data analysis, consolidation into an Excel spreadsheet, data warehousing, preprocessing, normalization in SQL, data visualization in Tableau, and a database schema diagram created using draw.io.
 
+## Database Schema
+[Image Alt Text](visualizations/Entity_Relationship_Diagram.jpeg)
+
 ## Data Sources
 
 The primary data source for this project is JustWatch, which provides datasets containing information about movies and TV shows offered by the streaming media providers. The datasets include details such as show titles, age certifications, ratings, and genres. 
