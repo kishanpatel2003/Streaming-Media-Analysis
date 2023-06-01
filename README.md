@@ -1,4 +1,4 @@
-# Streaming Media Analysis
+# Streaming Data Analysis
 
 [![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)](https://www.microsoft.com/excel)
 [![SQL](https://img.shields.io/badge/SQL-Database-orange)](https://www.sql.com)
